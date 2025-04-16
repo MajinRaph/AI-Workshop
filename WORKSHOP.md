@@ -6,7 +6,7 @@ This hands-on workshop explores how AI is transforming software development prac
 
 ## Duration
 
-3 hours (approx.)
+2 hours (approx.)
 
 ## Prerequisites
 
