@@ -1,0 +1,9 @@
+.roomodes
+__pycache__
+.pytest_cache
+venv
+*.egg-info
+*.egg
+app.py
+test_app.py
+API_DOCUMENTATION.md
