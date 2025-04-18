@@ -49,7 +49,7 @@ This hands-on workshop explores how AI is transforming software development prac
 - Use your agent to write unit tests for the previously generated app.py
 - Share your agent configuration with other participants
 
-### 5. Conclusion and Next Steps (20 minutes)
+### 5. Conclusion
 
 - Recap of key learnings
 - Q&A session
